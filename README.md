@@ -1,2 +1,2 @@
 # module_A
-module_a
+module_a hijo
